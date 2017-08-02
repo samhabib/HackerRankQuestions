@@ -34,6 +34,12 @@ Print a single integer denoting the number of characters you must delete to make
 
 
 '''
+My Approach:
+This problem is extremely easy in python due to the Counter import. We store each letter  in a Count for both string a 
+and b. Then we subtract the difference between a and b and that will leave us with all of the excess letters we have 
+left over and they will be positive if a has more of those letters or negative if b has more of those letters. Then we
+iterate all of our remaining numbers with an absolute value and add all of them together with the sum function and 
+thats it
 
 '''
 
