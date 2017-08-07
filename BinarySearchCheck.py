@@ -1,4 +1,5 @@
 """
+
 For the purposes of this challenge, we define a binary search tree to be a binary tree with the following ordering
 properties:
 
