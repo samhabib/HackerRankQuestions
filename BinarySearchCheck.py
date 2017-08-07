@@ -1,5 +1,4 @@
 """
-
 For the purposes of this challenge, we define a binary search tree to be a binary tree with the following ordering
 properties:
 
@@ -36,7 +35,7 @@ search tree; otherwise, it must return false. Hidden code stubs will print this 
 My Approach:
 I made a recursive function that took into account that we need to keep track of the max and min for each subtree so we
 I made checkBSTWithRange and it takes two extra int arguments that are used as comparisons for the rest of the tree.
- Other than that it is just a simple recursive check
+Other than that it is just a simple recursive check
 """
 
 
