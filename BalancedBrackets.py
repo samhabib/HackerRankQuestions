@@ -62,7 +62,6 @@ Well we knew that we had to keep track of all the open parenthesis, brackets, an
  '''
 
 
-
 def is_matched(expression):
     stack = []
     for char in expression:
