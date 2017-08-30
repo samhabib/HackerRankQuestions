@@ -19,7 +19,6 @@ Output Format
 Print Yes if he can use the magazine to create an untraceable replica of his ransom note; otherwise, print No.
 
 '''
-
 '''
 My Approach: Just simple Counter manipulation again and taking advantage of its unique methods. We subtract the magazine
 counter from the ransom and if it leaves us with an empty counter we know that magazine has all the words we are looking
